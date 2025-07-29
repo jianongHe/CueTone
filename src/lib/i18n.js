@@ -10,7 +10,7 @@ export const translations = {
     subtitle: '一个简单的音准练习工具',
     footer: '由 Gemini & Jiang 制作',
     loading: '正在加载钢琴音源，请稍候...',
-    welcome: '欢迎来到 CueTone！选择一个功能开始练习。',
+    welcome: '欢迎来到音准准！选择一个功能开始练习。',
     playingScale: '正在播放C大调音阶...',
     selectFunction: '选择一个功能开始练习。',
     selectNote: '请在钢琴上选择你听到的音符。',
@@ -20,22 +20,22 @@ export const translations = {
     startTestButton: '听力测试',
     playingButton: '正在播放...',
     footerQuotes: [
-      '“没有音乐，生命就是一个错误。” - 尼采',
-      '“音乐是世界的语言。” - 亨利·沃兹沃斯·朗费罗',
-      '“音乐表达的是无法用言语表达，也无法保持沉默的东西。” - 维克多·雨果',
-      '“唯一的真理是音乐。” - 杰克·凯鲁亚克',
-      '“音乐能在石头上种出花朵。” - 柯尔克孜族谚语'
+      // '“耳朵会唱歌~”',
+      // '“今天也要开心呀！”',
+      // '“弹奏属于你的旋律。”',
+      // '“每个音符都可可爱爱。”',
+      '“Do Re Mi Fa So La Si~”'
     ],
   },
   en: {
     title: 'CueTone',
     subtitle: 'A simple tool for pitch training',
     footerQuotes: [
-      '“Without music, life would be a mistake.” - Friedrich Nietzsche',
-      '“Music is the universal language of mankind.” - Henry Wadsworth Longfellow',
-      '“Music expresses that which cannot be put into words and that which cannot remain silent.” - Victor Hugo',
-      '“The only truth is music.” - Jack Kerouac',
-      '“Music can plant flowers on stones.” - Kyrgyz Proverb'
+      '“Your ears are singing~”',
+      '“Don\'t forget to be happy!”',
+      '“Play your own melody.”',
+      '“Every note is adorable.”',
+      '“Do Re Mi Fa So La Ti~”'
     ],
     loading: 'Loading piano samples, please wait...',
     welcome: 'Welcome to CueTone! Select a function to start.',

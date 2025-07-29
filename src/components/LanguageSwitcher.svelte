@@ -7,7 +7,7 @@
 </script>
 
 <button class="lang-btn" on:click={toggleLanguage}>
-  {$lang === 'zh' ? 'EN' : '中文'}
+  {$lang === 'zh' ? 'EN' : '中'}
 </button>
 
 <style>
