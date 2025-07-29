@@ -100,4 +100,19 @@
     color: #333;
     margin: 0;
   }
+
+  /* --- Custom Scrollbar --- */
+  :global(::-webkit-scrollbar) {
+    width: 6px;
+  }
+  :global(::-webkit-scrollbar-track) {
+    background: #f1f1f1;
+  }
+  :global(::-webkit-scrollbar-thumb) {
+    background: #ccc;
+    border-radius: 6px;
+  }
+  :global(::-webkit-scrollbar-thumb:hover) {
+    background: #aaa;
+  }
 </style>
