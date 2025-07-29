@@ -109,6 +109,8 @@
 
     // Play the actual test note after a delay
     sampler.triggerAttackRelease(testNote, '8n', now + 2);
+    // Play the actual test note after a delay
+    sampler.triggerAttackRelease(testNote, '8n', now + 3);
 
     messageKey = 'selectNote';
   }

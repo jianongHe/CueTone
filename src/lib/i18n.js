@@ -24,7 +24,7 @@ export const translations = {
       // '“今天也要开心呀！”',
       // '“弹奏属于你的旋律。”',
       // '“每个音符都可可爱爱。”',
-      '“Do Re Mi Fa So La Si~”'
+      '“Do Re Mi Fa So La Ti~”'
     ],
   },
   en: {
