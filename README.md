@@ -1,10 +1,10 @@
 # CueTone
 
-[中文版](./README_CN.md)
-
-<img width="500" height="382" alt="image" src="https://github.com/user-attachments/assets/c2c14dbf-1ba2-49db-9133-dd59e6b87e99" />
+[中文版](./README_CN.md)|[English](./README.md)
 
 A simple and fun tool for pitch training to help you improve your musical ear! The interface features a hand-drawn sketch style, making the practice process more relaxed and enjoyable.
+
+<img width="500" height="382" alt="image" src="https://github.com/user-attachments/assets/c2c14dbf-1ba2-49db-9133-dd59e6b87e99" />
 
 ## Features
 

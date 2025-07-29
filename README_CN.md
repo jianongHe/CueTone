@@ -1,10 +1,10 @@
 # CueTone
 
-[English](./README.md)
-
-<img width="500" height="382" alt="image" src="https://github.com/user-attachments/assets/c2c14dbf-1ba2-49db-9133-dd59e6b87e99" />
+[中文版](./README_CN.md)|[English](./README.md)
 
 一个简单有趣的音准训练工具，中文名为音准准，帮助你提升音乐听力技能！界面采用手绘涂鸦风格，让练习过程更加轻松愉快。
+
+<img width="500" height="382" alt="image" src="https://github.com/user-attachments/assets/c2c14dbf-1ba2-49db-9133-dd59e6b87e99" />
 
 ## 功能
 
