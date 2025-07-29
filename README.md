@@ -1,51 +1,55 @@
 # CueTone
 
-一个简单有趣的音准训练工具，中文名为音准准，帮助你提升音乐听力技能！界面采用手绘涂鸦风格，让练习过程更加轻松愉快。
+[中文版](./README_CN.md)
 
-## 功能
+<img width="500" height="382" alt="image" src="https://github.com/user-attachments/assets/c2c14dbf-1ba2-49db-9133-dd59e6b87e99" />
 
-- **播放音阶**：一键播放 C 大调音阶，熟悉各个音符。
-- **听音识别**：随机播放一个音符，考验你是否能准确识别并在钢琴键盘上点击出来。
-- **双语支持**：支持中文和英文界面，方便不同用户使用。
-- **手绘涂鸦风格**：独特的视觉设计，让学习过程更有趣。
+A simple and fun tool for pitch training to help you improve your musical ear! The interface features a hand-drawn sketch style, making the practice process more relaxed and enjoyable.
 
-## 使用方法
+## Features
 
-1. 点击 **"播放音阶"** 按钮，先听一遍 C 大调音阶。
-2. 点击 **"开始听力测试"** 按钮，系统会随机播放一个音符。
-3. 在下方的虚拟钢琴键盘上，点击你认为刚才听到的音符。
-4. 系统会立即告诉你是否正确，并提供反馈。
+- **Play Scale**: Play the C Major scale with one click to get familiar with the notes.
+- **Listening Test**: A random note is played, and you need to identify it by clicking on the virtual piano keyboard.
+- **Bilingual Support**: Supports both Chinese and English interfaces for user convenience.
+- **Hand-drawn Sketch Style**: Unique visual design that makes learning more fun.
 
-## 技术栈
+## How to Use
 
-- [SvelteKit](https://kit.svelte.dev/): 用于构建用户界面的现代 JavaScript 框架。
-- [Vite](https://vitejs.dev/): 快速的构建工具。
-- [Tone.js](https://tonejs.github.io/): 用于在浏览器中处理和播放音频。
-- 钢琴音色采样来自 [Salamander Grand Piano](https://archive.org/details/SalamanderGrandPianoV3)。
+1. Click the **"Play Scale"** button to hear the C Major scale.
+2. Click the **"Start Listening Test"** button, and the system will play a random note.
+3. Click on the note you think you heard on the virtual piano keyboard below.
+4. The system will immediately tell you if you're right and provide feedback.
 
-## 开发
+## Tech Stack
 
-### 安装依赖
+- [SvelteKit](https://kit.svelte.dev/): Modern JavaScript framework for building user interfaces.
+- [Vite](https://vitejs.dev/): Fast build tool.
+- [Tone.js](https://tonejs.github.io/): For handling and playing audio in the browser.
+- Piano samples are from [Salamander Grand Piano](https://archive.org/details/SalamanderGrandPianoV3).
+
+## Development
+
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 启动开发服务器
+### Start Development Server
 
 ```bash
 npm run dev
 ```
 
-然后在浏览器中打开 `http://localhost:5173`。
+Then open `http://localhost:5173` in your browser.
 
-### 构建生产版本
+### Build for Production
 
 ```bash
 npm run build
 ```
 
-### 预览生产构建
+### Preview Production Build
 
 ```bash
 npm run preview
