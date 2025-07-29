@@ -1,0 +1,16 @@
+{
+  "name": "CueTone",
+  "short_name": "CueTone",
+  "description": "A simple tool for pitch training.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "./cuetone-favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
