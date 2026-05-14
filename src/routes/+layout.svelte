@@ -38,6 +38,11 @@
 
   <footer>
     <p>{randomQuote}</p>
+    <p class="icp">
+      <a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">
+        沪ICP备2026015107号-2
+      </a>
+    </p>
   </footer>
 </div>
 
@@ -92,6 +97,20 @@
     margin-top: 3rem;
     color: #555;
     padding: 1rem 0 2rem;
+  }
+
+  footer a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+  }
+
+  .icp {
+    margin: 0.25rem 0 0;
+    font-size: 0.95rem;
   }
 
   :global(body) {
